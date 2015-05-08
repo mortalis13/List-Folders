@@ -1,0 +1,17 @@
+
+= 1.0.2 =
+
+- exports JSON file valid for the jsTree (http://jstree.com/) jQuery plugin which shows naviagtable tree
+- adds PDF, DJVU icons to the tree
+
+
+= 1.0.1 =
+
+- exports the structure text to HTML file with markup for directories and files which allows to style these elements
+
+
+= 1.0.0 =
+
+- shows directory structure with file/directory filters
+- exports the structure text to a text file if 'Export text' checked
+- skips empty directories and directories that doesn't contain files required by the filter

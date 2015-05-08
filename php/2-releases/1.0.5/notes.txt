@@ -1,0 +1,79 @@
+
+== Usage ==
+
+1. Paste a directory path in the first field.
+2. Add extensions to 'Filter Extensions' to include only files with specified extensions.
+3. Add extensions to 'Exclude Extensions' to exclude files with these extensions (the 'Filter Extensions' text will be ignored).
+4. Add folder names (that are subfolders or current directory from the path) to 'Filter Directories' to include only these directories.
+5. Select 'Export Options'
+  - 'Export Text' - creates .txt file with the directory structure in the 'export/text' folder.
+  - 'Export Markup' - creates .html file with the same text as for the 'Export Text' but with wrapped directory/file names in appropriate <span> elements. The file is created in the 'export/markup' folder.
+  - 'Export Tree' - creates two files: .html in the 'export/tree' subfolder of the project main folder and .json in the 'export/tree/json' subfolder.
+  The .html file can be run directly to view the scanned directory content in the tree format. It uses jsTree plugin for jQuery to give representation and interaction of a file tree on the HTML page.
+5. If 'Export Tree' is selected additional field 'Export Tree name' appears. You may set your name which will be given to .html and .json files in the 'export/tree' folder when the tree view is exported. Or leave it blank to use the selected directory as the Tree name.
+6. Press 'Scan Directory'.
+7. After scanning you should see the text output of the directory structure on the current page. And check the selected folder and 'export/tree' folder for created files.
+
+
+== Manage Options ==
+
+1. To save current path and filters enter name in the field and press Add.
+2. To load a saved option select a name from the list.
+3. To remove a saved option select a name and press Remove.
+
+
+== Problems ==
+
+Detected problems with russian and spanish folder names.
+1. If root folder has russian symbols the scanning fails (scandir()).
+2. If root folder is in english and has russian subfolders all should be well (russian subfolder scans correctly).
+3. For spanish folders (root/subfolder) this isn't true.
+4. Spanish files inside folders render correctly but the inner substitution occurs (ñ->n, á->a, ...)
+
+
+= 1.0.5 =
+
+- add trim path
+- add Toggle All button for export options
+- add database interaction to load last options after submit and save/load options
+- add Manage Options panel to add/load/remove options to a database
+- add ability to type export name for all export options
+- add more file extensions icons
+- change export destination is 'export' subfolder for all export options
+- fix path with last slash
+- fix scanning files without extensions
+
+
+= 1.0.4 =
+
+- add 'Exclude extensions' filter
+- add clear buttons for all filters
+- add style and description
+- fix backslash paths
+
+
+= 1.0.3 =
+
+- add html template for the folder, it edits within the code and exports to the 'export/tree' directory
+- add style, title, exported folder info to the template
+- add 'Expand/Collapse All' buttons for the tree
+- add toggle folder on click event
+- add 'Tree name' field when the 'Export tree' is checked, allows select other name for the target folder (default is the last folder name in the path)
+
+
+= 1.0.2 =
+
+- exports JSON file valid for the jsTree (http://jstree.com/) jQuery plugin which shows navigatable tree
+- adds PDF, DJVU icons to the tree
+
+
+= 1.0.1 =
+
+- exports the structure text to HTML file with markup for directories and files which allows to style these elements
+
+
+= 1.0.0 =
+
+- shows directory structure with file/directory filters
+- exports the structure text to a text file if 'Export text' checked
+- skips empty directories and directories that doesn't contain files required by the filter

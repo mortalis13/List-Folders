@@ -1,0 +1,5 @@
+[тест]
+    [123]
+        WinCmdRef.chw
+    WinCmdRef.chm
+    WinCmdRef.chw

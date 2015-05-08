@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="List_Folders.Sources">
+            <Component Id="cmp26C0CBED601E4E6B87247F4CBDB943AB" Guid="*">
+                <File Id="filC14911B2F2C7BEFDEBB5AF2285915443" Source="$(var.List Folders.ProjectDir)\MainForm.cs" />
+            </Component>
+            <Component Id="cmp82B5A0DE25FD09201EB942C079740A08" Guid="*">
+                <File Id="filB42FFE3C54B502662979DE57EBB99708" Source="$(var.List Folders.ProjectDir)\MainForm.Designer.cs" />
+            </Component>
+            <Component Id="cmpD6BE78FB6BA15D8AF51DA75A2CADB53D" Guid="*">
+                <File Id="filBCAA9DF842D603DBB5A24D6706490A48" Source="$(var.List Folders.ProjectDir)\Program.cs" />
+            </Component>
+            <Component Id="cmpEC844AEE3FC685029DB935390BBDE1EE" Guid="*">
+                <File Id="fil6A09186AA03A0187A9DF4648610FA8CE" Source="$(var.List Folders.ProjectDir)\TreeViewer.cs" />
+            </Component>
+            <Component Id="cmp20942E626EAE8CC082ED53CFA0C237A3" Guid="*">
+                <File Id="fil5411649C9C63F1A4EC225E186477CD2C" Source="$(var.List Folders.ProjectDir)\TreeViewer.Designer.cs" />
+            </Component>
+            <Component Id="cmpBFF77187C7C8FE3B623B62F7CF3A9647" Guid="*">
+                <File Id="fil2692CB8DFB35D7A8070CB1CAF8FDBE4E" Source="$(var.List Folders.ProjectDir)\MainForm.resx" />
+            </Component>
+            <Component Id="cmpDED02E87D2126D90A910EBC1D1B395E7" Guid="*">
+                <File Id="fil56E5DD313A8A89BAC629AA21A686DBE9" Source="$(var.List Folders.ProjectDir)\TreeViewer.resx" />
+            </Component>
+            <Component Id="cmpA5897B7A21CBAC1881AE51FE6EE0BCC3" Guid="*">
+                <File Id="fil5C6FFFA27C40CCED2AE37EAC925F2C14" Source="$(var.List Folders.ProjectDir)\App.config" />
+            </Component>
+            <Component Id="cmp5243A373A537F14E90B425E9D2774F85" Guid="*">
+                <File Id="fil8B47579419E9A92EFA5F0A4998C9F83D" Source="$(var.List Folders.ProjectDir)\List Folders.csproj" />
+            </Component>
+            <Directory Id="dir69DB2D81BCBBD7078093BCD17FC913DB" Name="Includes" />
+            <Directory Id="dir831FC52BDB6370FCAC38C9D970464D55" Name="Properties" />
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="List_Folders.Sources">
+            <ComponentRef Id="cmp26C0CBED601E4E6B87247F4CBDB943AB" />
+            <ComponentRef Id="cmp82B5A0DE25FD09201EB942C079740A08" />
+            <ComponentRef Id="cmpD6BE78FB6BA15D8AF51DA75A2CADB53D" />
+            <ComponentRef Id="cmpEC844AEE3FC685029DB935390BBDE1EE" />
+            <ComponentRef Id="cmp20942E626EAE8CC082ED53CFA0C237A3" />
+            <ComponentRef Id="cmpBFF77187C7C8FE3B623B62F7CF3A9647" />
+            <ComponentRef Id="cmpDED02E87D2126D90A910EBC1D1B395E7" />
+            <ComponentRef Id="cmpA5897B7A21CBAC1881AE51FE6EE0BCC3" />
+            <ComponentRef Id="cmp5243A373A537F14E90B425E9D2774F85" />
+            <ComponentRef Id="cmpDF2A40B68E1FD152B6A3E47D598AE55E" />
+            <ComponentRef Id="cmp42DEBD966A4D66426E2B4EA2DC3E3CFA" />
+            <ComponentRef Id="cmp6449D4EFB32F6E67749C6A04AF62D392" />
+            <ComponentRef Id="cmp590C2D56AD4A810DB564E8F9DB761F7B" />
+            <ComponentRef Id="cmp5E14B98D530E863C00356E2BBF76FD41" />
+            <ComponentRef Id="cmpAA59EB8E98A9CB56AE7DE99D85177B7E" />
+            <ComponentRef Id="cmpA10D8CE1A5E52582D38510E4BC3CDA18" />
+            <ComponentRef Id="cmp62A6C93DD8DF6163B249CC7711EDBD2F" />
+            <ComponentRef Id="cmpFB8606600F531BE2EFB19AD223C69216" />
+            <ComponentRef Id="cmp749853D967490671F7C3FEB787A822E4" />
+        </ComponentGroup>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir69DB2D81BCBBD7078093BCD17FC913DB">
+            <Component Id="cmp42DEBD966A4D66426E2B4EA2DC3E3CFA" Guid="*">
+                <File Id="fil76E3E92409DFCEF354853333440A43C3" Source="$(var.List Folders.ProjectDir)\Includes\Functions.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir3E4E4923B99D946CB96BCF9486731D51">
+            <Component Id="cmp590C2D56AD4A810DB564E8F9DB761F7B" Guid="*">
+                <File Id="filBACC5702619507CA0108C8B0090C98C5" Source="$(var.List Folders.ProjectDir)\Includes\Tree\DirNode.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir3E4E4923B99D946CB96BCF9486731D51">
+            <Component Id="cmp5E14B98D530E863C00356E2BBF76FD41" Guid="*">
+                <File Id="fil2935B5D422EE9D4B1BD294D6E09F5979" Source="$(var.List Folders.ProjectDir)\Includes\Tree\FileNode.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir831FC52BDB6370FCAC38C9D970464D55">
+            <Component Id="cmp62A6C93DD8DF6163B249CC7711EDBD2F" Guid="*">
+                <File Id="fil81A686784AD7790B8CAAE0EF2CEFCBF1" Source="$(var.List Folders.ProjectDir)\Properties\Resources.Designer.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir69DB2D81BCBBD7078093BCD17FC913DB">
+            <Component Id="cmp6449D4EFB32F6E67749C6A04AF62D392" Guid="*">
+                <File Id="fil563864E06DF9053323E107EE523B93D7" Source="$(var.List Folders.ProjectDir)\Includes\ScanDirectory.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir831FC52BDB6370FCAC38C9D970464D55">
+            <Component Id="cmp749853D967490671F7C3FEB787A822E4" Guid="*">
+                <File Id="filC3E61F69041813E92E1C14348CCBBD7F" Source="$(var.List Folders.ProjectDir)\Properties\Resources.resx" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir831FC52BDB6370FCAC38C9D970464D55">
+            <Component Id="cmpA10D8CE1A5E52582D38510E4BC3CDA18" Guid="*">
+                <File Id="fil6C36BC14743A0390DA3DD81A9B978662" Source="$(var.List Folders.ProjectDir)\Properties\AssemblyInfo.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir3E4E4923B99D946CB96BCF9486731D51">
+            <Component Id="cmpAA59EB8E98A9CB56AE7DE99D85177B7E" Guid="*">
+                <File Id="fil7ADCA6CED7EB69EE450C2017CB1FB789" Source="$(var.List Folders.ProjectDir)\Includes\Tree\TreeNode.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir69DB2D81BCBBD7078093BCD17FC913DB">
+            <Component Id="cmpDF2A40B68E1FD152B6A3E47D598AE55E" Guid="*">
+                <File Id="fil297099A44598A349538AF30EB326A3BE" Source="$(var.List Folders.ProjectDir)\Includes\Database.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir831FC52BDB6370FCAC38C9D970464D55">
+            <Component Id="cmpFB8606600F531BE2EFB19AD223C69216" Guid="*">
+                <File Id="fil4B8646641322DC19C3BEC9B248E43779" Source="$(var.List Folders.ProjectDir)\Properties\Settings.Designer.cs" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir69DB2D81BCBBD7078093BCD17FC913DB">
+            <Directory Id="dir3E4E4923B99D946CB96BCF9486731D51" Name="Tree" />
+        </DirectoryRef>
+    </Fragment>
+</Wix>

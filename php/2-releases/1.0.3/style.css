@@ -1,0 +1,80 @@
+
+input[type=submit]{
+  width:162px;
+  height:40px;
+  padding:0;
+}
+
+label {
+  font-size: 0.8em;
+  margin-bottom: 0.7em;
+  display: inline-block;
+}
+
+label,
+.export-options .title{
+  font-weight: 700;
+}
+
+textarea{
+  resize: none;
+  padding:5px;
+  width: 150px;
+}
+
+.options-fields .filter-fields,
+.options-fields .export-options{
+  width:27%;
+}
+.options-fields .export-options{
+  display: inline-block;
+  height: 141px;
+  vertical-align: top;
+  margin-top: 5px;
+}
+
+input#path{
+  width:100%;
+  padding:5px;
+}
+
+.form-container{
+  border: 1px solid #aaa;
+  margin:1em;
+  width: 560px;
+  border-radius: 10px;
+  background: #FFFDDF;
+  /*width: 35%;*/
+}
+
+.form-field{
+  margin:1em 1.75em 1em 1em;
+}
+
+.filter-fields {
+  display: inline-block;
+  margin-right: 2em;
+}
+
+.export-options label{
+  width: 70%;
+  font-weight: 100;
+}
+
+.export-options .title{
+  font-size: 0.8em;
+  margin-bottom: 0.7em;
+}
+
+/* ------------------------------- export tree name ------------------------------- */
+
+.tree-name-wrap {
+    margin-left: 1em;
+}
+#tree-name-label {
+    display: block;
+}
+#tree-name {
+    width: 40%;
+    padding: 5px;
+}

@@ -1,0 +1,8 @@
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\SetupProject1\bin\Debug\cab1.cab
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\SetupProject1\bin\Debug\SetupProject1.msi
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\SetupProject1\bin\Debug\SetupProject1.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\SetupProject1.wixproj.BindContentsFileListnull.txt
+obj\Debug\SetupProject1.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SetupProject1.wixproj.BindBuiltOutputsFileListnull.txt
+obj\Debug\UI_Texts.wixobj

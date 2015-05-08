@@ -1,0 +1,24 @@
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\bin\Release\List Folders.exe.config
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\bin\Release\List Folders.exe.manifest
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\bin\Release\List Folders.application
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\bin\Release\List Folders.exe
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\bin\Release\MySql.Data.dll
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\obj\Release\ListFolders.MainForm.resources
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\obj\Release\ListFolders.Properties.Resources.resources
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\obj\Release\ListFolders.TreeViewer.resources
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\obj\Release\List Folders.csproj.GenerateResource.Cache
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\obj\Release\List Folders.exe.manifest
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\obj\Release\List Folders.application
+C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\List Folders\obj\Release\List Folders.exe
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\bin\Release\List Folders.exe.config
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Release\List Folders.exe
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\bin\Release\List Folders.exe.manifest
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\bin\Release\List Folders.application
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\bin\Release\List Folders.exe
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\bin\Release\MySql.Data.dll
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Release\ListFolders.MainForm.resources
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Release\ListFolders.Properties.Resources.resources
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Release\ListFolders.TreeViewer.resources
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Release\List Folders.csproj.GenerateResource.Cache
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Release\List Folders.exe.manifest
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Release\List Folders.application

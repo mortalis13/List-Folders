@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="List_Folders.Symbols">
+            <Component Id="cmp582EB21A99BD1DB18E865024CB8AACC9" Guid="*">
+                <File Id="filA4D0CEC1EF7F230C2C3C996D20C1ABC0" Source="$(var.List Folders.TargetDir)\List Folders.pdb" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="List_Folders.Symbols">
+            <ComponentRef Id="cmp582EB21A99BD1DB18E865024CB8AACC9" />
+        </ComponentGroup>
+    </Fragment>
+</Wix>

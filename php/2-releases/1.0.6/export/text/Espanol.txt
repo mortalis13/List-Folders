@@ -1,0 +1,59 @@
+[frases]
+    1-Чернореченский А. (сост.) - Популярный русско-испанский разговорник - 2010.pdf
+    2-Русско-испанский разговорник Локид-Пресс.pdf
+    3-Р. Морено Маньюэко - Русско-испанский разговорник - 1990.djvu
+    4-Райтаровский В.В. - Русско-испанский разговорник - 1981.djvu
+    5-Русско-испанский разговорник_Шидловская Н.М_2012 -320с.pdf
+    6-Русско-испанский разговорник_Низский Гиланов_1964.djvu
+[gramatica]
+    [Канонич]
+        канонич.djvu
+    [Канонич С.И. - Грамматика испанского языка + ключи. 2006]
+        Канонич С.И. - Грамматика испанского языка. Практический курс, 2006.pdf
+        Канонич С.И. - Ключи. Грамматика испанского языка, 2006.pdf
+    Aragones L., Palencia R. - Gramatica de uso del espanol B1-B2 (2009).pdf
+    Breve Gramatica.djvu
+    Gramatica practica del espanol. Nivel elemental.pdf
+    Grammatika_Ispanskogo_Yazyka_Vinogradov.pdf
+    Manual de la Nueva Gramatica de la lengua espanola.pdf
+    Pernia L.P. - Langenscheidt Kurzgrammatik Spanisch - 2011.pdf
+    Pons_grammatika_spanish.pdf
+    Practice.Makes.Perfect.Complete.Spanish.Grammar.rar
+    span01.zip
+    Виноградов_Cборник упражнений по грамматике испанского яз_1997.doc
+    Виноградов_Грамматика испанского языка.doc
+    Л.А.Ленская - Грамматика испанского языка.pdf
+    Сантомауро А., Шародо П. - Вся грамматика испанского языка - 2010.djvu
+[otro]
+    [Mapas]
+        lierganes-santander-santander-lierganes.pdf
+        lineas-feve.pdf
+        Mapa_Turistico_2014_SPA-ENG.pdf
+        poster-flota-trenes.pdf
+        Red-de-lineas-de-autobuses-de-Santander.jpg
+        red-ferroviaria-estatal-de-ancho-metrico.pdf
+        santander-cabezon-de-la-sal.pdf
+        santander-lierganes-2012.pdf
+        santander.pdf
+        santander_cabezondelasal02.png
+        santander_lierganes02.png
+        trenes-turisticos.pdf
+        zona-cantabria.pdf
+    [vocabulario]
+        [1]
+            electronica.docx
+            familia.docx
+            muebles.docx
+            quehaceres.docx
+            sitios.docx
+        [txt]
+            familia.txt
+            sitios-ru.txt
+            sitios.txt
+        animales.docx
+        comida.docx
+        cuerpo.docx
+        disciplinas.docx
+        escuela.docx
+        sitios de ciudad.docx
+    Русско-испанский разговорник_Локид-Пресс.pdf

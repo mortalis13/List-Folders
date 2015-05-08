@@ -1,0 +1,26 @@
+
+= 1.0.3 =
+
+- added html template for the folder, it edits within the code and exports to the 'export/tree' directory
+- added style, title, exported folder info to the template
+- added 'Expand/Collapse All' buttons for the tree
+- added toggle folder on click event
+- added 'Tree name' field when the 'Export tree' is checked, allows select other name for the target folder (default is the last folder name in the path)
+
+
+= 1.0.2 =
+
+- exports JSON file valid for the jsTree (http://jstree.com/) jQuery plugin which shows naviagtable tree
+- adds PDF, DJVU icons to the tree
+
+
+= 1.0.1 =
+
+- exports the structure text to HTML file with markup for directories and files which allows to style these elements
+
+
+= 1.0.0 =
+
+- shows directory structure with file/directory filters
+- exports the structure text to a text file if 'Export text' checked
+- skips empty directories and directories that doesn't contain files required by the filter

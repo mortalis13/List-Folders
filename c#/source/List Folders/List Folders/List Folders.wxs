@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="List_Folders.Binaries">
+            <Component Id="cmpFDF60888860FDB6EDA96D78C58059436" Guid="*">
+                <File Id="fil8855765DBBCB4CECE30CECE617920CD4" Source="$(var.List Folders.TargetDir)\List Folders.exe" />
+            </Component>
+            <Component Id="cmp3C418FAAA3105BF3A9E88055925A7AC6" Guid="*">
+                <File Id="fil7545F0D224CDF5EA48593825A35F2431" Source="$(var.List Folders.TargetDir)\List Folders.exe.config" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="List_Folders.Binaries">
+            <ComponentRef Id="cmpFDF60888860FDB6EDA96D78C58059436" />
+            <ComponentRef Id="cmp3C418FAAA3105BF3A9E88055925A7AC6" />
+        </ComponentGroup>
+    </Fragment>
+</Wix>

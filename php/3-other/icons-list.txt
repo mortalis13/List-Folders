@@ -1,0 +1,45 @@
+
+= Added =
+
+pdf
+djvu
+
+= Search =
+
+exe
+msi
+iso
+rar
+
+mov
+mp4
+avi
+
+js
+
+xml
+dll
+
+= Add to view from /images =
+
+zip
+txt
+html
+doc
+css
+
+music
+  mp3
+  wav
+  ogg
+  
+php
+picture
+  gif
+  png
+  jpg
+  jpeg
+  ttf
+
+psd
+xls

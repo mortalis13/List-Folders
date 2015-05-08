@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+  
+  <Property Id="WIXUI_INSTALLDIR" Value="INSTALLFOLDER" />
+  <!-- <Property Id="LAUNCHPRODUCT">0</Property> -->
+  
+  <Property Id="Setup">Setup</Property>
+  <Property Id="ButtonText_Back">&lt; &amp;Back</Property>
+  <Property Id="ButtonText_Browse">Br&amp;owse</Property>
+  <Property Id="ButtonText_Cancel">Cancel</Property>
+  <Property Id="ButtonText_Exit">&amp;Exit</Property>
+  <Property Id="ButtonText_Finish">&amp;Finish</Property>
+  <Property Id="ButtonText_Ignore">&amp;Ignore</Property>
+  <Property Id="ButtonText_Install">&amp;Install</Property>
+  <Property Id="ButtonText_Next">&amp;Next &gt;</Property>
+  <Property Id="ButtonText_No">&amp;No</Property>
+  <Property Id="ButtonText_OK">OK</Property>
+  <Property Id="ButtonText_Remove">&amp;Remove</Property>
+  <Property Id="ButtonText_Repair">&amp;Repair</Property>
+  <Property Id="ButtonText_Reset">&amp;Reset</Property>
+  <Property Id="ButtonText_Resume">&amp;Resume</Property>
+  <Property Id="ButtonText_Retry">&amp;Retry</Property>
+  <Property Id="ButtonText_Return">&amp;Return</Property>
+  <Property Id="ButtonText_Yes">&amp;Yes</Property>
+  <Property Id="Wizard">Setup Wizard</Property>
+  
+  <Property Id="DialogBitmap">dlgbmp</Property>
+  <Property Id="BannerBitmap">bannrbmp</Property>
+  <Property Id="InfoIcon">info</Property>
+  <Property Id="ExclamationIcon">exclamic</Property>
+  
+  <Binary Id="dlgbmp" SourceFile="Binary\Dialog.bmp" />
+  <Binary Id="bannrbmp" SourceFile="Binary\Banner.bmp" />
+  <Binary Id="Up" SourceFile="Binary\Up.ico" />
+  <Binary Id="New" SourceFile="Binary\New.ico" />
+  <Binary Id="exclamic" SourceFile="Binary\Exclam.ico" />
+  <Binary Id="info" SourceFile="Binary\Info.ico" />
+  
+  <Icon Id="$(var.ProductNameVar).exe" SourceFile="$(var.ProjectTargetDir)\$(var.ProductName).exe" />    
+  
+</Include>

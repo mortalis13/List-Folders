@@ -1,0 +1,3 @@
+
+- shows directory structure with file/directory filters
+- exports the structure text to a text file if 'Export text' checked

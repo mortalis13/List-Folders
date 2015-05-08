@@ -1,0 +1,18 @@
+[
+
+  {
+    "text" : "magento",
+    "children" : [
+      "Book 1.txt",
+      "Book 2.txt"
+    ]
+  },
+  
+  {
+    "text" : "wordpress",
+    "children" : [
+      "Book 1.txt"
+    ]
+  }
+  
+]

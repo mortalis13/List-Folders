@@ -1,0 +1,10 @@
+[BW] The Definitive Guide to Magento.pdf
+guide_to_programming_magento.pdf
+Joomla 1.5.djvu
+kpmrtdp.pdf
+Magento 1.3 Theme Design.pdf
+Magento User Guide.pdf
+Magento.1.3.PHP.Developers.Guide.pdf
+The.Definitive.Guide.to.Magento.pdf
+TheOfficialMagentoUserGuide.pdf
+William Rice - Magento 1.3 Sales Tactics Cookbook 2010.pdf

@@ -1,0 +1,12 @@
+
+- integrate with DB (save/get values)
+- if empty file filter
+- Check All option for exports
+- export text/markup to 'export'
+- Show Empty Folders option
+- skip files without extension option
+- [think] links to download files instead of export them with checkboxes
+- notification on Add options to list
+- select added option in the list
+- organize style.css
+- links to view exported files after submission

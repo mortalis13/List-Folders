@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>jstree basic demos</title>
+	<style>
+	html { margin:0; padding:0; font-size:62.5%; }
+	body { max-width:800px; min-width:300px; margin:0 auto; padding:20px 10px; font-size:14px; font-size:1.4em; }
+	h1 { font-size:1.8em; }
+	.demo { overflow:auto; border:1px solid silver; min-height:100px; }
+	</style>
+	<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="ajax" class="demo"></div>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="js/jstree.js"></script>
+	
+	<script>
+    $('#ajax').jstree({
+      'core' : {
+        'data' : {
+          "url" : "result-json.json",
+          "dataType" : "json"
+        },
+        'dblclick_toggle':false
+      },
+    })
+    .on("click.jstree", ".jstree-anchor", function (e) {
+      $(this).jstree().toggle_node(e.target);
+    })
+	</script>
+</body>
+</html>

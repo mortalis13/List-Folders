@@ -1,0 +1,21 @@
+{
+  "name": "list-folders",
+  "version": "1.0.0",
+  "description": "Allows list folders, subfolders and files of a selected directory",
+  "main": "q.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mortalis13/small-projects.git"
+  },
+  "author": "mortalis",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "jsdom": "^5.0.1",
+    "mysql": "^2.6.2",
+    "open": "0.0.5"
+  }
+}

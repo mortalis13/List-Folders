@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="List_Folders.Content">
+            <Component Id="cmp19F5466C68CFA8C4119265C790885D7B" Guid="*">
+                <File Id="fil322A480CD1C85783B087937ADC8F42FD" Source="$(var.List Folders.ProjectDir)\icon.ico" />
+            </Component>
+            <Directory Id="dir4108B4F4C33F488B3E78C60A27F85DED" Name="Exports" />
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="List_Folders.Content">
+            <ComponentRef Id="cmp19F5466C68CFA8C4119265C790885D7B" />
+            <ComponentRef Id="cmp4D3D86B2361922CBD4B31D1ABADEE01B" />
+            <ComponentRef Id="cmp72CCEE48D02C2E7797801CE92905D962" />
+            <ComponentRef Id="cmp4236CF9C2E94707D2F2FB0AAAD93DC5C" />
+            <ComponentRef Id="cmp9A009C806CDC169009C7C126C4248580" />
+        </ComponentGroup>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dirC6BBCD35B334807B24320C105E932C2B">
+            <Component Id="cmp4236CF9C2E94707D2F2FB0AAAD93DC5C" Guid="*">
+                <File Id="fil91BAC4B30F3EA9B9F616F1213108F8F7" Source="$(var.List Folders.ProjectDir)\Exports\icons\icon32.png" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dirC6BBCD35B334807B24320C105E932C2B">
+            <Component Id="cmp4D3D86B2361922CBD4B31D1ABADEE01B" Guid="*">
+                <File Id="filFCEB0DE12DFF6EA57F2D45B493DB48D3" Source="$(var.List Folders.ProjectDir)\Exports\icons\icon.ico" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dirC6BBCD35B334807B24320C105E932C2B">
+            <Component Id="cmp72CCEE48D02C2E7797801CE92905D962" Guid="*">
+                <File Id="fil40F36F653EF1E8698363183776C72172" Source="$(var.List Folders.ProjectDir)\Exports\icons\icon16.png" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir375BB36BEC30E2011AE584961B294576">
+            <Component Id="cmp9A009C806CDC169009C7C126C4248580" Guid="*">
+                <File Id="filE1BEFEB837F47886C60D2567CEE598A4" Source="$(var.List Folders.ProjectDir)\Exports\templates\tree.html" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir4108B4F4C33F488B3E78C60A27F85DED">
+            <Directory Id="dir375BB36BEC30E2011AE584961B294576" Name="templates" />
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="dir4108B4F4C33F488B3E78C60A27F85DED">
+            <Directory Id="dirC6BBCD35B334807B24320C105E932C2B" Name="icons" />
+        </DirectoryRef>
+    </Fragment>
+</Wix>

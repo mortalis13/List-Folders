@@ -1,0 +1,161 @@
+
+*,
+*:before,
+*:after { 
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:    border-box;
+  box-sizing:         border-box;
+}
+
+body{
+  background: #eee;
+}
+
+input[type=submit]{
+  width: 20%;
+  height:40px;
+  padding:0;
+}
+
+label {
+  font-size: 0.8em;
+  margin-bottom: 0.7em;
+  display: inline-block;
+}
+
+label,
+.export-options .title{
+  font-weight: 700;
+}
+
+textarea{
+  resize: none;
+  padding:5px;
+  width: 100%;
+  height:100px;
+}
+
+input#path{
+  width:100%;
+  padding:5px;
+}
+
+
+#container{
+  margin: 1em;
+}
+
+.form-container{
+  width: 660px;
+  padding: 1.5em;;
+}
+
+.form-container,
+.manage-options {
+  display: inline-block;
+  vertical-align: top;
+  border: 1px solid #AAA;
+  margin: 1em 1em 1em 0;
+  border-radius: 10px;
+  background: #FFF9EC;
+}
+
+.page-title{
+  margin-bottom: 1.5em;
+}
+.page-title h2{
+  margin:0.5em 0 0;
+}
+.page-title .desc{
+  font-style: italic;
+  font-size: 1em;
+  color:#555;
+}
+
+.options-fields .filter-fields,
+.options-fields .export-options{
+  width:20%;
+}
+.options-fields .export-options{
+  display: inline-block;
+  height: 141px;
+  vertical-align: top;
+  margin-top: 5px;
+}
+
+.options-fields .filter-ext-wrap,
+.options-fields .exclude-ext-wrap{
+  width:20%;
+}
+
+.field{
+  margin: 0 0 1em;
+}
+.field.footer{
+  margin-bottom: 0;
+}
+
+.filter-fields {
+  display: inline-block;
+  margin-right: 2em;
+}
+
+.clear-filter{
+  margin-top: 0.5em;
+  width: 100%;
+}
+
+.export-options .list{
+  height: 100px;
+}
+
+.export-options label{
+  width: 72%;
+  font-weight: 100;
+}
+
+.export-options .title{
+  font-size: 0.8em;
+  margin-bottom: 0.7em;
+}
+
+/* ------------------------------- export name ------------------------------- */
+
+#export-name-label {
+    display: block;
+}
+#export-name {
+    width: 40%;
+    padding: 5px;
+}
+
+/* ------------------------------- options ------------------------------- */
+
+.manage-options {
+  vertical-align: top;
+  padding: 1em;
+  width: 300px;
+}
+
+.control-block .title{
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.manage-options button{
+  padding: 0.1em 0;
+  width: 40%;
+}
+
+.manage-options .field{
+  text-align: center;
+}
+
+.manage-options #option-name,
+.manage-options #options-list{
+  width: 50%;
+}
+.manage-options #option-name,
+.manage-options #options-list option{
+  padding: 0.3em;
+}

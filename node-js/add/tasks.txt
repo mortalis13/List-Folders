@@ -1,0 +1,3 @@
+
+- exclude filter text -> to tree tmpl
+- write file if folder not exists

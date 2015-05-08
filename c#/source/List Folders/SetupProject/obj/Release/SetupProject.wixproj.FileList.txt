@@ -1,0 +1,7 @@
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\SetupProject\bin\Release\List Folders 1.0.0.msi
+C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\SetupProject\bin\Release\List Folders 1.0.0.wixpdb
+obj\Release\Product.wixobj
+obj\Release\UI_Texts.wixobj
+obj\Release\SetupProject.wixproj.BindContentsFileListnull.txt
+obj\Release\SetupProject.wixproj.BindOutputsFileListnull.txt
+obj\Release\SetupProject.wixproj.BindBuiltOutputsFileListnull.txt
