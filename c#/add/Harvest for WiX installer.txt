@@ -1,0 +1,23 @@
+
+Use heat.exe WiX tool to get all directories needed for installation to include them in the final .wxs from the Visual Studio project.
+
+In VS:
+1. Tools->External Tools
+2. "Add", fill the fields with these values:
+
+------
+Harvest Project Content Fragments
+heat.exe
+project $(ProjectFileName) -pog Content -ag -template fragment -out $(TargetName)-Content-Fragments.wxs -ke -v
+$(ProjectDir)
+------
+
+3. Check "Use Output window"
+4. OK
+5. Select the project
+6. Tools->"Harvest Project Content Fragments"
+7. After harvesting check the <ProjetName>-Content-Fragments.wxs file. It should contain fragments for components and directories included in the project. If nothing add directories to the VS project first:
+  1. In Solution Explorer -> "Show All Files"
+  2. Rightclick on directory to include
+  3. Select "Include In Project"
+  
