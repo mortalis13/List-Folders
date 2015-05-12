@@ -34,11 +34,12 @@
     </Directory>
 
     <DirectoryRef Id="INSTALLFOLDER">
-      <Component Id="MainExecutable" Guid="*">
+      <Component Id="MainExecutable" Guid="78aff2b9-c9af-4953-9b9c-9a2c86ff3e39">
         <File Id="$(var.ProductNameVar)EXE" Source="$(var.ProjectTargetDir)\$(var.ProductName).exe" KeyPath='yes'>
           <Shortcut Id="startmenu$(var.ProductNameVar)" Directory="ProgramMenuDir" Name="$(var.ProductName) $(var.ProductVersion)" WorkingDirectory='INSTALLDIR' Icon="$(var.ProductNameVar).exe" IconIndex="0" Advertise="yes" />
           <Shortcut Id="desktop$(var.ProductNameVar)" Directory="DesktopFolder" Name="$(var.ProductName) $(var.ProductVersion)" WorkingDirectory='INSTALLDIR' Icon="$(var.ProductNameVar).exe" IconIndex="0" Advertise="yes" />
         </File>
+        <File Id="MySqlDLL" Source="$(var.ProjectTargetDir)\MySql.Data.dll" />
         <Shortcut Id="UninstallProduct" Name="Uninstall" Description="Uninstalls Application" Target="[SystemFolder]msiexec.exe" Arguments="/i [ProductCode]"/>
       </Component>
     </DirectoryRef>

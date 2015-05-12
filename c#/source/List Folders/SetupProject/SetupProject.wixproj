@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <ProjectGuid>27abb6d2-2457-4930-9746-886ce8379e5f</ProjectGuid>
     <SchemaVersion>2.0</SchemaVersion>
     <OutputName>List Folders $(Version)</OutputName>

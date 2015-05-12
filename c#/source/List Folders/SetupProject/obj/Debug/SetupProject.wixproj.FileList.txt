@@ -10,3 +10,7 @@ obj\Debug\SetupProject.wixproj.BindOutputsFileListnull.txt
 obj\Debug\SetupProject.wixproj.BindBuiltOutputsFileListnull.txt
 C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\SetupProject\bin\Debug\List Folders 1.0.0.msi
 C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\SetupProject\bin\Debug\List Folders 1.0.0.wixpdb
+C:\1-Roman\Documents\6-tmp\List Folders\SetupProject\bin\Debug\List Folders 1.0.0.msi
+C:\1-Roman\Documents\6-tmp\List Folders\SetupProject\bin\Debug\List Folders 1.0.0.wixpdb
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\SetupProject\bin\Debug\List Folders 1.0.1.msi
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\SetupProject\bin\Debug\List Folders 1.0.1.wixpdb

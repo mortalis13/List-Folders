@@ -69,3 +69,15 @@ Additional **Export name** field allows set different name for exported files. B
 - But its support for *multilanguage* file names seems to be better.
 - And it uses Windows native paths and `exe` format for executables.
 - If **MySQL** server is not running the status message *"No MySQL Connection"* should appear. And the program is fully functional without the connection. It just doesn't remember the state on exit.
+
+
+## Changelog
+
+### 1.0.1
+
+- Add: Compatibility with Windows XP
+- Add: MySQL dll to the program to load it locally indepenently of existence in the Framework
+
+- Change: .NET Framework required version to 4.0
+
+- Fix: Path to JSON file inside of HTML file for jsTree view (it uses / instead of \)

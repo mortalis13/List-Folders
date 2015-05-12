@@ -469,7 +469,7 @@ namespace ListFolders.Includes {
       
       tmpl=Functions.getPath(@"templates\tree.html");
       exportPath=Functions.getPath(@"export\tree\");
-      jsonFolder=@"json\";
+      jsonFolder="json/";                                                   // should be "/" because "\" prints as control symbol
       jsonPath=exportPath+jsonFolder;
       
       exportDoc=treeName+".html";

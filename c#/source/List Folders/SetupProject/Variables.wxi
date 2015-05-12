@@ -4,5 +4,5 @@
   <?define ProductNameVar= "List_Folders" ?>
   <?define ProjectTargetDir= "$(var.List Folders.TargetDir)" ?>
   <?define ProjectDir= "$(var.List Folders.ProjectDir)" ?>
-  <?define ProductVersion= "1.0.0" ?>
+  <?define ProductVersion= "1.0.1" ?>
 </Include>

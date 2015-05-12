@@ -7,3 +7,27 @@ C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\Test\ob
 C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\Test\obj\Debug\Test.csproj.GenerateResource.Cache
 C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\Test\obj\Debug\Test.exe
 C:\1-Roman\Documents\3-programming\2-projects\Visual Studio\List Folders\Test\obj\Debug\Test.pdb
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\templates\tree.html
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\Test.exe.config
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\Test.exe
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\Test.pdb
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\mscorlib.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\System.Data.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\System.Web.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\System.Transactions.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\System.EnterpriseServices.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\System.Data.OracleClient.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\Microsoft.VisualBasic.Activities.Compiler.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\normidna.nlp
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\normnfc.nlp
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\normnfd.nlp
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\normnfkc.nlp
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\normnfkd.nlp
+C:\1-Roman\Documents\6-tmp\List Folders\Test\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\1-Roman\Documents\6-tmp\List Folders\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\1-Roman\Documents\6-tmp\List Folders\Test\obj\Debug\Test.Test.resources
+C:\1-Roman\Documents\6-tmp\List Folders\Test\obj\Debug\Test.Properties.Resources.resources
+C:\1-Roman\Documents\6-tmp\List Folders\Test\obj\Debug\GenerateResource.read.1.tlog
+C:\1-Roman\Documents\6-tmp\List Folders\Test\obj\Debug\GenerateResource.write.1.tlog
+C:\1-Roman\Documents\6-tmp\List Folders\Test\obj\Debug\Test.exe
+C:\1-Roman\Documents\6-tmp\List Folders\Test\obj\Debug\Test.pdb

@@ -26,3 +26,35 @@ C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List 
 C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\List Folders.csproj.GenerateResource.Cache
 C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\List Folders.exe.manifest
 C:\1-Roman\Documents\3-programming\3-small-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\List Folders.application
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\bin\Debug\List Folders.exe.config
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\List Folders.exe
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\List Folders.pdb
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\bin\Debug\List Folders.exe.manifest
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\bin\Debug\List Folders.application
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\bin\Debug\List Folders.exe
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\bin\Debug\List Folders.pdb
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\bin\Debug\MySql.Data.dll
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\ListFolders.MainForm.resources
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\ListFolders.Properties.Resources.resources
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\ListFolders.TreeViewer.resources
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\List Folders.exe.manifest
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\List Folders.application
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\bin\Debug\List Folders.exe.config
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\List Folders.exe
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\List Folders.pdb
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\ResolveAssemblyReference.cache
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\ListFolders.MainForm.resources
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\ListFolders.Properties.Resources.resources
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\ListFolders.TreeViewer.resources
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\GenerateResource.read.1.tlog
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\GenerateResource.write.1.tlog
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\bin\Debug\List Folders.exe.manifest
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\bin\Debug\List Folders.application
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\bin\Debug\List Folders.exe
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\bin\Debug\List Folders.pdb
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\List Folders.exe.manifest
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\obj\Debug\List Folders.application
+C:\1-Roman\Documents\6-tmp\List Folders\List Folders\bin\Debug\MySql.Data.dll
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\ResolveAssemblyReference.cache
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\GenerateResource.read.1.tlog
+C:\1-Roman\Documents\3-programming\2-projects\list-folders\c#\source\List Folders\List Folders\obj\Debug\GenerateResource.write.1.tlog

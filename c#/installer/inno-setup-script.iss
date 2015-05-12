@@ -2,8 +2,8 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "List Folders"
-#define MyAppVersion "1.0.0"
-#define MyAppNameVersion "List Folders 1.0.0"
+#define MyAppVersion "1.0.1"
+#define MyAppNameVersion "List Folders 1.0.1"
 #define MyAppPublisher "mortalis"
 #define MyAppExeName "List Folders.exe"
 #define UninstallName "unins000.exe"
@@ -35,6 +35,7 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 [Files]
 
 Source: "{#ExePath}\List Folders.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#ExePath}\MySql.Data.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#FoldersPath}\export\*"; DestDir: "{app}\export"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "{#FoldersPath}\icons\*"; DestDir: "{app}\icons"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "{#FoldersPath}\lib\*"; DestDir: "{app}\lib"; Flags: ignoreversion recursesubdirs createallsubdirs
