@@ -38,4 +38,10 @@ Manage Options block allows save current options (path and filters) to the datab
 3. To **remove** a saved option select a name and press **Remove**.
 
 
+## Screenshots
+
+![list-folders-main](qt/add/screenshots/list-folders-main.png)
+![tree-viewer](qt/add/screenshots/tree-viewer.png)
+
+
 [SourceForge page](https://sourceforge.net/projects/listfolders/)
