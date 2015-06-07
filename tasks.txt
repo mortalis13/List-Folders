@@ -1,13 +1,16 @@
-
-# - integrate with DB (save/get values)
-- if empty file filter
-- Check All option for exports
-- export text/markup to 'export'
-- Show Empty Folders option
-- skip files without extension option
-- [think] links to download files instead of export them with checkboxes
-- notification on Add options to list
-- select added option in the list
-- organize style.css
-- links to view exported files after submission
-- PHP refactor Database class methods
+- if no /export/.../ folders
+- if file exist - create new unique (file-1, file-2, ...)
+- remove needless vars
+- show version or add About window
+- file/folder info in Tree Viewer
+- general info (number of files/folders scanned)
+- format path in Tree Viewer
+- add interface to add icons for extensions
+- Tree Viewer if JSON with wrong structure/content
+- "Open Export Folder" button
+- "Clean Export Folder" option/button
+- Tree Viewer search
+- save settings to structured json/xml (for manual edit)
+- use sqlite (from Qt) for settings
+- Check path before scan (check with "123")
+- don't export if scan canceled

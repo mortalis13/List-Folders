@@ -36,3 +36,6 @@ Manage Options block allows save current options (path and filters) to the datab
 1. To **save** current path and filters enter name in the field and press **Add**.
 2. To **load** a saved option select a name from the list.
 3. To **remove** a saved option select a name and press **Remove**.
+
+
+[SourceForge page](https://sourceforge.net/projects/listfolders/)

@@ -32,7 +32,7 @@ Additional **Export name** field allows set different name for exported files. B
 
 # Install & Run
 
-1. Run the **List Folders.exe** installer and pass all steps.
+1. Run the **List Folders.exe** installer and pass all steps ([installer on SourceForge](https://sourceforge.net/projects/listfolders/files/Java/)).
 2. The **Desktop** and **Start Menu** *shortcuts* should be created.
 3. Start the **MySQL** server if needed.
 4. Start the program with the shortcut or using the **List Folders.exe** or **List Folders.jar** file from the installed directory.
@@ -78,6 +78,13 @@ Additional **Export name** field allows set different name for exported files. B
 - *Esc* - Exit **Main window** / **Manage Options** dialog / **Tree Viewer**
 - *Ctrl+R* - Scan directory
 - *Ctrl+O* - Browse for directory in the **Main window** / browse for JSON file in the **Tree Viewer**
+
+
+## Screenshots
+
+![main-prog](/add/screenshots/main-prog.png)
+![manage-options](/add/screenshots/manage-options.png)
+![tree-viewer](/add/screenshots/tree-viewer.png)
 
 
 ## Changelog
