@@ -43,4 +43,4 @@ Manage Options block allows save current options (path and filters) to the datab
 ![list-folders-main](qt/add/screenshots/list-folders-main.png)
 ![tree-viewer](qt/add/screenshots/tree-viewer.png)
 
-<a href="https://sourceforge.net/p/listfolders/" rel="nofollow"><img alt="Download List Folders" src="https://sourceforge.net/sflogo.php?type=16&group_id=2452708"></a>
+<a href="https://sourceforge.net/p/listfolders/" target="_blank" rel="nofollow"><img alt="Download List Folders" src="https://sourceforge.net/sflogo.php?type=16&group_id=2452708"></a>
